@@ -7,6 +7,13 @@
   <version>1.0-SNAPSHOT</version>
   <name>hello-world-microservice-java</name>
   <url>http://maven.apache.org</url>
+
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <spring-boot-dependencies.version>1.5.17.RELEASE</spring-boot-dependencies.version>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
