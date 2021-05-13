@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java-based Cumulocity Microservice
 
 Cumulocity microservices are server-side applications used to extend the platform with specific functionality and developers are not restricted to any specific tech stack. However, there are certain requirements that must be met. Review the [Microservice SDK guide](https://cumulocity.com/guides/microservice-sdk/introduction/) for more details.
@@ -22,7 +21,3 @@ These tools are provided as-is and without warranty or support. They do not cons
 For more information you can Ask a Question in the [TECHcommunity Forums](http://tech.forums.softwareag.com/techjforum/forums/list.page?product=cumulocity).
 
 You can find additional information in the [Software AG TECHcommunity](http://techcommunity.softwareag.com/home/-/product/name/cumulocity).
-=======
-# Cumulocity Microservice
-Cumulocity Microservice - Hello World example developed using Java (work-in-progress)
->>>>>>> fc27970eede119bdd3b8091ddacc607d76935ba7
