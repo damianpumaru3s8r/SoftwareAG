@@ -10,7 +10,7 @@ Cumulocity microservices can be developed with any IDE and build tool. This "Hel
 *   Java and Maven
 *   Docker
 
-### Build, deploy and test
+### Build, deploy and test
 
 Follow the instructions of the [Hello world tutorial](https://cumulocity.com/guides/microservice-sdk/java/#java-microservice) to build, deploy and test the microservice.
 
