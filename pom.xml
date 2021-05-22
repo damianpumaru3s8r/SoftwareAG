@@ -62,6 +62,9 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <version>${spring-boot-dependencies.version}</version>
+        <configuration>
+          <mainClass>c8y.example.App</mainClass>
+        </configuration>
         <executions>
           <execution>
             <goals>
