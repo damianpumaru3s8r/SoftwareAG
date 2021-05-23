@@ -1,12 +1,12 @@
-# Java-based Cumulocity Microservice
+# Java-based Cumulocity IoT Microservice
 
-Cumulocity microservices are server-side applications used to extend the platform with specific functionality and developers are not restricted to any specific tech stack. However, there are certain requirements that must be met. Review the [Microservice SDK guide](https://cumulocity.com/guides/microservice-sdk/introduction/) for more details.
+Cumulocity IoT microservices are server-side applications used to extend the platform with specific functionality and developers are not restricted to any specific tech stack. However, there are certain requirements that must be met. Review the [Microservice SDK guide](https://cumulocity.com/guides/microservice-sdk/introduction/) for more details.
 
-Cumulocity microservices can be developed with any IDE and build tool. This "Hello world" microservice has been developed using the Microservice SDK for Java which relies on Maven and Docker.
+Cumulocity IoT microservices can be developed with any IDE and build tool. This "Hello world" microservice has been developed using the Microservice SDK for Java which relies on Maven and Docker.
 
 ### Prerequisites
 
-*   Cumulocity credentials and a dedicated tenant.
+*   Cumulocity IoT credentials and a dedicated tenant.
 *   Java and Maven
 *   Docker
 
